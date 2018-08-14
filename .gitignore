@@ -1,3 +1,6 @@
 .idea/**
 interview.iml
 target/**
+.classpath
+.project
+.settings/**

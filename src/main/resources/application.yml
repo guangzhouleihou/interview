@@ -12,12 +12,12 @@ http :
                 enabled: false
 spring :
   datasource :
-      name : so
-      url : jdbc:mysql://mysql-demo.gzleihou.cn:3306/interview?useUnicode=true&characterEncoding=UTF-8&useSSL=false
-      username : interview
-      password : interview
-      type : com.alibaba.druid.pool.DruidDataSource
-      driver-class-name : com.mysql.jdbc.Driver
+          name : so
+          url : jdbc:mysql://mysql-demo.gzleihou.cn:3306/interview?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+          username : interview
+          password : interview
+          type : com.alibaba.druid.pool.DruidDataSource
+          driver-class-name : com.mysql.jdbc.Driver
   # Redis数据库索引（默认为0）
   redis :
     database : 1
