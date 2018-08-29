@@ -73,8 +73,8 @@ spring :
 
 # mybatis配置
 mybatis :
-  mapper-locations : classpath:com/leihou/interview/mapper/xml/*.xml
-  type-aliases-package : com.leihou.interview.mapper.entity
+  #mapper-locations : classpath:com/leihou/interview/mapper/xml/*.xml
+  type-aliases-package : com.leihou.interview.pojo
 
 # 日志加载文件
 logging :
