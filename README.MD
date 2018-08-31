@@ -10,7 +10,7 @@
 ### 笔试
 
 * 登录接⼝口：http://localhost:8080/accountcontroller/login  POST方式
-* 创建⽤用户：http://localhost:8080/swagger-ui.html#!/hm-usercontroller/createHmUser POST方式
+* 创建⽤用户：http://localhost:8080/hm-usercontroller/createHmUser POST方式
 * 查询某个⽤用户信息：http://localhost:8080/hm-usercontroller/getHmUser GET方式
 
      
