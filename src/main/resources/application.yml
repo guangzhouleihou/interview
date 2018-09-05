@@ -7,7 +7,7 @@ http :
         charset : UTF-8
         enabled : true
       devtools:
-              restart:  #是否自动重启
+              restart:  #是否自动重 启
                 exclude: /static/**,/templates/**
                 enabled: false
 spring :
